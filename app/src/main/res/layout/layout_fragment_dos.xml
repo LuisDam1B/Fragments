@@ -4,6 +4,7 @@
     android:layout_height="match_parent"
     android:background="#59A8F8">
     <TextView
+        android:id="@+id/tvTextof2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Información fragment2"
